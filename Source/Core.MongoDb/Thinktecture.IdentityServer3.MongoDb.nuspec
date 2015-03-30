@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Thinktecture.IdentityServer3.MongoDb</id>
+    <version>1.0.0</version>
+    <title>Thinktecture IdentityServer3 - MongoDb</title>
+    <authors>Jorn Filho</authors>
+    <owners>Jorn Filho</owners>
+    <projectUrl>https://github.com/jornfilho/IdentityServer3.MongoDb</projectUrl>
+    <iconUrl>http://www.thinktecture.com/images/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/jornfilho/IdentityServer3.MongoDb/blob/master/LICENSE</licenseUrl>
+    <summary>MongoDb-based persistence layer for IdentityServer3</summary>
+    <description>MongoDb-based persistence layer for IdentityServer3</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Thinktecture IdentityServer OpenID Connect OpenIDConnect OAuth2 OWIN ASP.NET Katana WebApi SSO Federation Claims Identity EF EntityFramework</tags>
+  </metadata>
+</package>
